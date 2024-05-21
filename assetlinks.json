@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "asia.ifarmer.investor.dev",
+      "sha256_cert_fingerprints": [
+        "4C:7F:11:D8:2F:B7:31:7F:86:62:F8:7F:B9:6F:36:6B:E4:BF:FE:EF:6C:BE:7F:AE:F1:E8:20:C2:3C:B2:F9:8B"
+      ]
+    }
+  }
+]
